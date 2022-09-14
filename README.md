@@ -2,7 +2,7 @@
 ##### *[Ссылка на задание](https://github.com/netology-code/py-homeworks-basic/tree/master/6.classes)*
 
 ----
-- В проекте созданы классы Студенты (Student), проподаватели (Mentor) и дочернии классы менторов: лекторы (Lecturer) и 
+- В [проекте](https://github.com/MariaZamyatina/Classes/blob/main/main.py) созданы классы Студенты (Student), проподаватели (Mentor) и дочернии классы менторов: лекторы (Lecturer) и 
 ревьюеры (Reviewer).
 
 
