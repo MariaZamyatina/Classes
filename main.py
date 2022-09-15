@@ -50,7 +50,7 @@ class Mentor:
 
 class Lecturer(Mentor):
     def __init__(self, name, surname):
-        super(Lecturer, self).__init__(name, surname)
+        super().__init__(name, surname)
         self.grades = {}
 
     def __lt__(self, other):
